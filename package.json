@@ -4,7 +4,7 @@
   "description": "Web application for managing zone of the adppy name system",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --mode development --watch",
+    "build:watch": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
   "author": "FABCO",
