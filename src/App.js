@@ -34,6 +34,7 @@ export class AppComponent extends React.Component {
 
   render() {
     return <div>
+      <h2 className='title is-2'>Dappy zone manager🚤</h2>
       <button onClick={this.onLoadZone}>Load zone</button>
     </div>
   }
