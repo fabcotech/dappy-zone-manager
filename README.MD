@@ -1,9 +1,3 @@
-## dapp-hexagons
+## Dappy zone manager
 
-Web application for dappy to raise funds or create a jackpot in a fun way.
-
-Based on rchain-token.
-
-![Tipboard on Dappy](https://github.com/fabcotech/dapp-tipboard)
-
-![rchain-token](https://github.com/fabcotech/rchain-token)
+An admin web app for managing zones (IP addresses, subdomains and TLS certificates)in the dappy name system.
